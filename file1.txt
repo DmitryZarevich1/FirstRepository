@@ -1,4 +1,4 @@
 Hello world!szdvczc111
 Good bye!!
-another line from user1
+Line from user2
 changed from user1
