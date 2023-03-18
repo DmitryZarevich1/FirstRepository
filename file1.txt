@@ -2,3 +2,4 @@ Hello world!szdvczc111
 Good bye!!
 Line from user2
 changed from user1
+line from user1 - lesson about rebase
